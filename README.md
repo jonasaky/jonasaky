@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![You can reach to me at](https://cdn.pixabay.com/photo/2017/10/03/17/53/nature-2813487_1280.jpg)](https://about.me/jonasaky)
 
-Software Engineer with 10+ years of experience, currently working at Wizeline. 
+Software Engineer with 10+ years of experience, currently working at [Wizeline](https://www.wizeline.com).
 Some of the languages and technologies I'm involved: Node.js, Vue.js, React, Angular, AWS, WordPress, .NET, C#, SQL, MongoDB, Xamarin, Golang, and more...
